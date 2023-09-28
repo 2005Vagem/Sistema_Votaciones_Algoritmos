@@ -33,6 +33,7 @@ public class Sistema_votaciones2 {
              System.out.println("La contraseña es incorrecta");
         }
         
+        System.out.println("inicio exitoso");
        
     }
     
